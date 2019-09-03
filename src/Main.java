@@ -8,7 +8,7 @@ public class Main {
 	}
 	
 	public void halleluja() {
-		System.out.println("AMEN!!!!!");
+		System.out.println("AMEN!");
 	}
 	
 }
